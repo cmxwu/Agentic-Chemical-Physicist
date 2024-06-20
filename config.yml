@@ -1,0 +1,5 @@
+filepaths:
+  model_path: "bert-base-uncased"
+  model_save_path: "./updated_bert_model"
+  tokenizer_save_path: "./updated_bert_tokenizer"
+  new_vocab_file: "vocab.txt"
